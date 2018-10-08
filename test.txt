@@ -1,4 +1,8 @@
 test4
 test-add
 test-new
+<<<<<<< HEAD
 test-chage
+=======
+test-fe-chage
+>>>>>>> newc
